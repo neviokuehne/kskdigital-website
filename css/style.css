@@ -1,0 +1,512 @@
+.mediaViewInfo {
+	--web-view-name: canvas;
+	--web-view-id: canvas;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: canvas;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#canvas {
+	position: absolute;
+	width: 1920px;
+	height: 2198px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: canvas;
+	--web-view-id: canvas;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-user-drag: none;
+	-khtml-user-drag: none;
+	-moz-user-drag: none;
+}
+body {
+	overflow-x: hidden;
+}
+html {
+    scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+	width: 10px;
+	background-color: rgba(245, 245, 245, 0.815);
+}
+	
+::-webkit-scrollbar-thumb {
+	background-color: #c5c5c5;
+		border-radius: 10px;
+}
+	
+::-webkit-scrollbar-track {
+	background-color: #e7e7e7;
+}
+#Rectangle_88 {
+	opacity: 0.43;
+	fill: rgba(240,236,244,1);
+}
+.Rectangle_88 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 534px;
+	left: 0px;
+	top: 1592px;
+}
+#Eine_Marke_der_KSK_Kabel-_und_ {
+	left: 455px;
+	top: 1720px;
+	position: absolute;
+	overflow: visible;
+	width: 324px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#KSK-DIGITAL {
+	left: 455px;
+	top: 1662px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	line-height: 43px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#n_2024_erstellt_durch_KSKDIGIT {
+	left: 422px;
+	top: 2144px;
+	position: absolute;
+	overflow: visible;
+	width: 502px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#Impressum_und_Datenschutz {
+	left: 1252px;
+	top: 2144px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#ksknewlogo {
+	position: absolute;
+	width: 257px;
+	height: 121px;
+	left: 281px;
+	top: 0px;
+	overflow: visible;
+	transition: transform 0.3s ease;
+}
+#Glasfaser {
+	left: 803px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	text-decoration: none;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Smart_Building {
+	left: 914px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	text-decoration: none;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Dashboard {
+	left: 1088px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Termin_vereinbaren {
+	left: 1345px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Login {
+	left: 1580px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#login {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 1555px;
+	top: 51px;
+	overflow: visible;
+}
+#calendar {
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 1318px;
+	top: 51px;
+	overflow: visible;
+}
+#Bild1 {
+	position: absolute;
+	width: 1097px;
+	height: 578px;
+	left: 478px;
+	top: 238px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(0,176,240,1);
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 0px 12px rgba(0, 176, 240, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	height: 162px;
+	left: 1257px;
+	top: 625px;
+}
+#n__Heizungsthermostate {
+	left: 1271px;
+	top: 651px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Die_einfache_Art_die_Energieko {
+	left: 1271px;
+	top: 680px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_2 {
+	fill: rgba(239,239,245,1);
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	height: 234px;
+	left: 1301px;
+	top: 307px;
+}
+#n__Zentrales_Dashboard {
+	left: 1401px;
+	top: 335px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#Alle_Daten_auf_einen_Blick_Die {
+	left: 1328px;
+	top: 392px;
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 174px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_3 {
+	fill: rgba(57,109,255,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 52px;
+	left: 1328px;
+	top: 330px;
+}
+#slideshow_1 {
+	position: absolute;
+	width: 30px;
+	height: 31px;
+	left: 1339px;
+	top: 341px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(59,209,122,1);
+}
+.Rectangle_4 {
+	filter: drop-shadow(0px 0px 12px rgba(0, 176, 240, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	height: 162px;
+	left: 527px;
+	top: 457px;
+}
+#n__Funk-Sensoren {
+	left: 551px;
+	top: 483px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Digitales_Gebude-_und_Anlagen- {
+	left: 551px;
+	top: 512px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.5px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_5 {
+	fill: rgba(0,89,251,1);
+}
+.Rectangle_5 {
+	filter: drop-shadow(0px 0px 12px rgba(0, 176, 240, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 282px;
+	height: 162px;
+	left: 586px;
+	top: 282px;
+}
+#n__Glasfaser-Inhausnetze {
+	left: 609px;
+	top: 308px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Modernste_zukunftssichere_Glas {
+	left: 608px;
+	top: 337px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.5px;
+	color: rgba(255,255,255,1);
+}
+#Digitale_Gebude_und_Prozesse_m {
+	left: 335px;
+	top: 671px;
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	white-space: nowrap;
+	line-height: 42px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,83,226,1);
+	letter-spacing: 0.1px;
+}
+#Rectangle_6 {
+	fill: rgba(0,89,251,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 0px 6px rgba(0, 89, 251, 1));
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	height: 88px;
+	left: 341px;
+	top: 1038px;
+}
+#Unsere_Ziele {
+	left: 368px;
+	top: 1059px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Hi_wir_sind_kskdigital_Ihr_Dig {
+	left: 341px;
+	top: 1125px;
+	position: absolute;
+	overflow: visible;
+	width: 1128px;
+	white-space: nowrap;
+	line-height: 47px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Digitalisierung_ist_fr_uns_nic {
+	left: 341px;
+	top: 1200px;
+	position: absolute;
+	overflow: visible;
+	width: 1024px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+.logo {
+    width: 200px;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
