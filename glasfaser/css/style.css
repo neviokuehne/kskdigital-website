@@ -1,0 +1,1037 @@
+.mediaViewInfo {
+	--web-view-name: canvas – 1;
+	--web-view-id: canvas__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: canvas__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#canvas__1 {
+	position: absolute;
+	width: 1920px;
+	height: 4820px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: canvas – 1;
+	--web-view-id: canvas__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_107 {
+	fill: rgba(249,249,249,1);
+}
+.Rectangle_107 {
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	height: 516px;
+	left: 425px;
+	top: 3628px;
+}
+#Rectangle_108 {
+	fill: rgba(249,249,249,1);
+}
+.Rectangle_108 {
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	height: 516px;
+	left: 1186px;
+	top: 3628px;
+}
+#Rectangle_106 {
+	fill: rgba(249,249,249,1);
+}
+.Rectangle_106 {
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	height: 516px;
+	left: 806px;
+	top: 3628px;
+}
+#Rectangle_101 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_101 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 620px;
+	left: 1232px;
+	top: 870px;
+}
+#Rectangle_100 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_100 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 620px;
+	left: 757px;
+	top: 870px;
+}
+#Rectangle_88 {
+	opacity: 0.43;
+	fill: rgba(240,236,244,1);
+}
+.Rectangle_88 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 534px;
+	left: 0px;
+	top: 4217px;
+}
+#Eine_Marke_der_KSK_Kabel-_und_ {
+	left: 455px;
+	top: 4345px;
+	position: absolute;
+	overflow: visible;
+	width: 324px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#KSK-DIGITAL {
+	left: 455px;
+	top: 2983px;
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	white-space: nowrap;
+	line-height: 43px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#ksknewlogo {
+	position: absolute;
+	width: 257px;
+	height: 121px;
+	left: 281px;
+	top: 0px;
+	overflow: visible;
+	transition: transform 0.3s ease;
+}
+#Glasfaser {
+	left: 803px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Smart_Building {
+	left: 914px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Dashboard {
+	left: 1088px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Termin_vereinbaren {
+	left: 1345px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Login {
+	left: 1580px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#login {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 1555px;
+	top: 51px;
+	overflow: visible;
+}
+#calendar {
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 1318px;
+	top: 51px;
+	overflow: visible;
+}
+#building {
+	position: absolute;
+	width: 803px;
+	height: 484px;
+	left: 279px;
+	top: 262px;
+	overflow: visible;
+}
+#Rectangle_93 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_93 {
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	height: 155px;
+	left: 960px;
+	top: 568px;
+}
+#kskdigital_errichtet_und_betre {
+	left: 1017px;
+	top: 303px;
+	position: absolute;
+	overflow: visible;
+	width: 626px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#Wir_bringen_Glasfasernetze_zum {
+	left: 489px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 943px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Rectangle_96 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_96 {
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	height: 620px;
+	left: 301px;
+	top: 870px;
+}
+#Rectangle_97 {
+	fill: rgba(0,89,251,1);
+}
+.Rectangle_97 {
+	filter: drop-shadow(0px 0px 10px rgba(0, 89, 251, 0.529));
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 123px;
+	left: 441px;
+	top: 910px;
+}
+#n_ {
+	left: 481px;
+	top: 926px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.14px;
+}
+#Rectangle_98 {
+	fill: rgba(0,89,251,1);
+}
+.Rectangle_98 {
+	filter: drop-shadow(0px 0px 10px rgba(0, 89, 251, 0.529));
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 123px;
+	left: 898px;
+	top: 910px;
+}
+#n__ {
+	left: 937px;
+	top: 926px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.14px;
+}
+#Rectangle_99 {
+	fill: rgba(0,89,251,1);
+}
+.Rectangle_99 {
+	filter: drop-shadow(0px 0px 10px rgba(0, 89, 251, 0.529));
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 123px;
+	left: 1383px;
+	top: 911px;
+}
+#n__bb {
+	left: 1418px;
+	top: 927px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.14px;
+}
+#Fr_uns_beginnt_die_Errichtung_ {
+	left: 339px;
+	top: 1060px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#Glasfasernetze_errichten {
+	left: 360px;
+	top: 1022px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -0.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Glasfaser_Vertrieb_B2B {
+	left: 837px;
+	top: 1022px;
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -0.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Wir_untersttzen_Glasfaser-Carr {
+	left: 810px;
+	top: 1060px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	line-height: 23px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#Glasfaser_Expertise {
+	left: 1327px;
+	top: 1022px;
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -0.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Unsere_Glasfaserwissen_geben_w {
+	left: 1278px;
+	top: 1060px;
+	position: absolute;
+	overflow: visible;
+	width: 309px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#Bild1 {
+	position: absolute;
+	width: 417px;
+	height: 494px;
+	left: 410px;
+	top: 1622px;
+	overflow: visible;
+}
+#Glasfaser-Power_schnell_sicher {
+	left: 889px;
+	top: 1633px;
+	position: absolute;
+	overflow: visible;
+	width: 597px;
+	white-space: nowrap;
+	line-height: 47px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#kskdigital_verbindet_Expertise {
+	left: 895px;
+	top: 1755px;
+	position: absolute;
+	overflow: visible;
+	width: 521px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#Bild2 {
+	position: absolute;
+	width: 418px;
+	height: 494px;
+	left: 1092px;
+	top: 2116px;
+	overflow: visible;
+}
+#Fr_Ihre_digitale_Zukunft_gerst {
+	left: 410px;
+	top: 2177px;
+	position: absolute;
+	overflow: visible;
+	width: 562px;
+	white-space: nowrap;
+	line-height: 47px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Wir_bieten_nicht_nur_erstklass {
+	left: 410px;
+	top: 2303px;
+	position: absolute;
+	overflow: visible;
+	width: 647px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#Unsere_Experten_sorgen_fr_zuku {
+	left: 433px;
+	top: 1957px;
+	position: absolute;
+	overflow: visible;
+	width: 282px;
+	white-space: nowrap;
+	line-height: 35px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Bild3 {
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 751px;
+	top: 2042px;
+	overflow: visible;
+}
+#Bild3_bq {
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 1433px;
+	top: 2538px;
+	overflow: visible;
+}
+#Wir_bringen_den_Glasfaseransch {
+	left: 1114px;
+	top: 2413px;
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Was_unsere_Kunden_ber_uns_sage {
+	left: 410px;
+	top: 2696px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	white-space: nowrap;
+	line-height: 51px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 49px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Rectangle_61 {
+	fill: rgba(43,97,222,1);
+}
+.Rectangle_61 {
+	filter: drop-shadow(0px 0px 20px rgba(43, 97, 222, 0.631));
+	position: absolute;
+	overflow: visible;
+	width: 595px;
+	height: 315px;
+	left: 410px;
+	top: 2775px;
+}
+#Rectangle_102 {
+	fill: rgba(249,249,249,1);
+}
+.Rectangle_102 {
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 255px;
+	left: 975px;
+	top: 2775px;
+}
+#Rectangle_103 {
+	fill: rgba(249,249,249,1);
+}
+.Rectangle_103 {
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 255px;
+	left: 410px;
+	top: 3054px;
+}
+#Rectangle_104 {
+	fill: rgba(249,249,249,1);
+}
+.Rectangle_104 {
+	position: absolute;
+	overflow: visible;
+	width: 535px;
+	height: 255px;
+	left: 975px;
+	top: 3054px;
+}
+#Image_3 {
+	position: absolute;
+	width: 66px;
+	height: 67px;
+	left: 434px;
+	top: 2801px;
+	overflow: visible;
+}
+#Jens_Bischoff_Geschftsfhrer_Wo {
+	left: 525px;
+	top: 2813px;
+	position: absolute;
+	overflow: visible;
+	width: 292px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Seit_vielen_Jahren_vertrauen_w {
+	opacity: 0.87;
+	left: 434px;
+	top: 2889px;
+	position: absolute;
+	overflow: hidden;
+	width: 477px;
+	height: 141px;
+	line-height: 18px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.1px;
+}
+#Image_4 {
+	position: absolute;
+	width: 66px;
+	height: 67px;
+	left: 1001px;
+	top: 2801px;
+	overflow: visible;
+}
+#Silke_Pfrtner_Bereichsleitung_ {
+	left: 1092px;
+	top: 2813px;
+	position: absolute;
+	overflow: visible;
+	width: 363px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Fr_uns_als_einer_der_grten_Bau {
+	opacity: 0.78;
+	left: 1001px;
+	top: 2876px;
+	position: absolute;
+	overflow: visible;
+	width: 450px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Image_5 {
+	position: absolute;
+	width: 66px;
+	height: 66px;
+	left: 434px;
+	top: 3075px;
+	overflow: visible;
+}
+#Martin_Ertl_Geschftsfhrer_Stad {
+	left: 525px;
+	top: 3089px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Auf_der_Suche_nach_einem_erfah {
+	opacity: 0.78;
+	left: 434px;
+	top: 3158px;
+	position: absolute;
+	overflow: hidden;
+	width: 472px;
+	height: 137px;
+	line-height: 16px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Image_6 {
+	position: absolute;
+	width: 66px;
+	height: 67px;
+	left: 1001px;
+	top: 3075px;
+	overflow: visible;
+}
+#Jennifer_Schnhoff_Vertriebslei {
+	left: 1092px;
+	top: 3089px;
+	position: absolute;
+	overflow: visible;
+	width: 348px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Als_einer_der_ersten_B2B-Vertr {
+	opacity: 0.78;
+	left: 1001px;
+	top: 3178px;
+	position: absolute;
+	overflow: hidden;
+	width: 450px;
+	height: 98px;
+	line-height: 16px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Aktuelle_Zahlen_aus_dem_Markt {
+	left: 563px;
+	top: 3384px;
+	position: absolute;
+	overflow: visible;
+	width: 795px;
+	white-space: nowrap;
+	line-height: 51px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 49px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#Die_Glasfasertechnologie_bilde {
+	left: 357px;
+	top: 3463px;
+	position: absolute;
+	overflow: visible;
+	width: 1207px;
+	height: 187px;
+	line-height: 31px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,0.769);
+	letter-spacing: 0.14px;
+}
+#Bild7 {
+	position: absolute;
+	width: 230px;
+	height: 230px;
+	left: 860px;
+	top: 3663px;
+	overflow: visible;
+}
+#Bild4 {
+	position: absolute;
+	width: 231px;
+	height: 230px;
+	left: 479px;
+	top: 3663px;
+	overflow: visible;
+}
+#Bild5 {
+	position: absolute;
+	width: 209px;
+	height: 230px;
+	left: 881px;
+	top: 3663px;
+	overflow: visible;
+}
+#Bild4_ce {
+	position: absolute;
+	width: 231px;
+	height: 230px;
+	left: 1240px;
+	top: 3663px;
+	overflow: visible;
+}
+#Ellipse_5 {
+	fill: rgba(249,249,249,1);
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 75px;
+	left: 1286px;
+	top: 3745px;
+}
+#aller_deutschen_Haushalte_verf {
+	left: 444px;
+	top: 3926px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 240px;
+	line-height: 27px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#der_Deutschen_wrden_einen_Glas {
+	left: 824px;
+	top: 3953px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 240px;
+	line-height: 25px;
+	margin-top: -0.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#der_Tk-Unternehmen_haben_eine_ {
+	left: 1210px;
+	top: 3944px;
+	position: absolute;
+	overflow: hidden;
+	width: 293px;
+	height: 187px;
+	line-height: 25px;
+	margin-top: -0.5px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.1px;
+}
+#n_2024_erstellt_durch_KSKDIGIT {
+	left: 422px;
+	top: 4769px;
+	position: absolute;
+	overflow: visible;
+	width: 502px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+#Impressum_und_Datenschutz {
+	left: 1252px;
+	top: 4769px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.14px;
+}
+.logo {
+    width: 200px;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
